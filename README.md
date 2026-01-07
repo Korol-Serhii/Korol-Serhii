@@ -1,24 +1,28 @@
 # Hello, I'm Serhii Korol 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239B56&width=435&lines=Software+Engineer;Defense+Tech+Enthusiast;Veteran+%26+Team+Lead;Python+%26+JS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239B56&width=435&lines=Software+Engineer;Defense+Tech+Enthusiast;Veteran+%26+Team+Lead;C%2B%2B+%26+C%23+Developer)](https://git.io/typing-svg)
 
 ### 🚀 About Me
 I am a **Software Engineer** with a unique background in military leadership and defense technology.
 
 My journey is defined by discipline and continuous evolution. With over **8 years of military service** (from Scout to Squad Leader), I have mastered the art of making critical decisions under pressure and managing teams in high-stakes environments. I have successfully transitioned these skills into software engineering, combining a structured mindset with modern technical capabilities.
 
-Currently, I focus on building robust web applications and exploring engineering solutions for the defense sector (MilTech).
+Currently, I focus on building robust software solutions and exploring engineering applications for the defense sector (MilTech).
 
 ---
 
 ### 🛠 Tech Stack
 
-**Core Languages & Frameworks:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+**Core Languages:**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Web & Frameworks:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **Infrastructure & Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -35,8 +39,8 @@ Currently, I focus on building robust web applications and exploring engineering
 ### 📂 Projects & Experience
 
 #### 💻 Software Engineering & Development
-* **Front-End Development:** Proficient in building responsive SPAs using React and Angular (Diploma Project).
-* **Python Automation:** Scripts for data processing and basic automation tasks.
+* **Backend & System Programming:** Development using C++ and C# for performance-critical tasks.
+* **Front-End Development:** Proficient in building responsive SPAs using React and Angular.
 * **Defense Tech:** Applied engineering knowledge in UAV systems and electronics.
 
 #### 🎖 Leadership & Operations (Armed Forces of Ukraine)
@@ -48,7 +52,7 @@ Currently, I focus on building robust web applications and exploring engineering
 ### 🎓 Education & Certifications
 
 **IT & Engineering:**
-* **IT STEP Computer Academy:** Diploma in Software Development (Front End specialization).
+* **IT STEP Computer Academy:** Diploma in Software Development.
 * **CS50:** Computer Science for Business Professionals.
 * **Linux Foundation:** Linux Basics.
 * **Victory Drones / Ministry of Defence:** Certified UAV Engineer & Pilot.
@@ -60,16 +64,13 @@ Currently, I focus on building robust web applications and exploring engineering
 ---
 
 ### 📫 Connect with me
-I am open to collaboration on **Defense Tech**, **Web Development**, and **Open Source** projects.
+I am open to collaboration on **Defense Tech**, **Software Engineering**, and **Open Source** projects.
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/ksv-software-engineer" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:infosk530@gmail.com" target="_blank">
+<a href="mailto:king0sv0@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://t.me/YOUR_TELEGRAM_HANDLE" target="_blank">
-  <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
 </a>
 
 ---

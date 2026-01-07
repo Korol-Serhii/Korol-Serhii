@@ -5,7 +5,7 @@
 ### 🚀 About Me
 I am a disciplined and goal-oriented **Software Engineer** with a strong foundation in computer science and a unique background in military leadership.
 
-My professional journey is defined by continuous evolution. I hold a diploma in **Software Development** (specializing in Front-End) and have expanded my stack to include system programming with **C++** and **C#**. My 8+ years of military service—ranging from Scout to Squad Leader—have instilled in me the ability to solve complex problems under pressure, manage teams effectively, and adapt rapidly to new technologies.
+My professional journey is defined by continuous evolution. I hold a diploma in **Software Development** (specializing in Front-End) and have expanded my stack to include system programming with **C++** and **C#**, as well as database management and DevOps practices. My 8+ years of military service—ranging from Scout to Squad Leader—have instilled in me the ability to solve complex problems under pressure, manage teams effectively, and adapt rapidly to new technologies.
 
 Currently, I am focused on developing robust software solutions and exploring the intersection of **Software Engineering** and **Defense Technology**.
 
@@ -26,10 +26,11 @@ Currently, I am focused on developing robust software solutions and exploring th
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools & Infrastructure:**
+**Databases & DevOps:**
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **Engineering Expertise:**
 * 🛡️ **Cyber Security:** OSINT, Information Security (NATO certified), Cyber Hygiene.
@@ -43,7 +44,8 @@ Currently, I am focused on developing robust software solutions and exploring th
 #### 💻 Software Engineering
 * **System Programming:** Development of performance-critical applications using **C++** and **C#**.
 * **Web Development:** Building responsive Single Page Applications (SPAs) with **React** and **Angular**.
-* **Automation:** Creating scripts for data processing and automation using **Python**.
+* **Databases:** Designing schemas and querying data using **SQL**.
+* **DevOps:** Containerizing applications with **Docker** for consistent deployment.
 
 #### 🎖 Leadership & Operations (Armed Forces of Ukraine)
 * **2015 – 2023:** **Squad Leader / Scout.**

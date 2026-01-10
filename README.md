@@ -50,13 +50,6 @@ Currently, I am focused on the intersection of **Software Engineering** and **De
   <img src="https://skillicons.dev/icons?i=docker,linux,git,visualstudio,vscode,postgres" alt="Tools">
 </div>
 
-#### 🧠 Specialized Knowledge
-<div align="left">
-  <img src="https://img.shields.io/badge/-Cyber%20Security-20232a?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cyber Security">
-  <img src="https://img.shields.io/badge/-UAV%20Engineering-blue?style=for-the-badge&logo=dji&logoColor=white" alt="UAV">
-  <img src="https://img.shields.io/badge/-Crisis%20Management-D14836?style=for-the-badge&logo=target&logoColor=white" alt="Management">
-</div>
-
 ---
 
 ### 📂 Experience & Projects
@@ -92,7 +85,7 @@ Currently, I am focused on the intersection of **Software Engineering** and **De
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shortSparrow&show_icons=true&theme=transparent&title_color=36557F&icon_color=36557F&text_color=333&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Korol-Serhii&show_icons=true&theme=transparent&title_color=36557F&icon_color=36557F&text_color=333&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---

@@ -3,39 +3,50 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239B56&width=435&lines=Software+Engineer;C%2B%2B+%2F+C%23+Developer;Front-End+Developer;Defense+Tech+Enthusiast)](https://git.io/typing-svg)
 
 ### 🚀 About Me
-I am a disciplined and goal-oriented **Software Engineer** with a strong foundation in computer science and a unique background in military leadership.
 
-My professional journey is defined by continuous evolution. I hold a diploma in **Software Development** (specializing in Front-End) and have expanded my stack to include system programming with **C++** and **C#**, as well as database management and DevOps practices. My 8+ years of military service—ranging from Scout to Squad Leader—have instilled in me the ability to solve complex problems under pressure, manage teams effectively, and adapt rapidly to new technologies.
+I am a disciplined and goal-oriented **Software Engineer** with a strong foundation in computer science and a unique background in military leadership. My professional philosophy is built on discipline, adaptability, and continuous technological evolution.
 
-Currently, I am focused on developing robust software solutions and exploring the intersection of **Software Engineering** and **Defense Technology**.
+My engineering journey began with a deep focus on interface design and client-side logic. I hold a professional diploma in **Software Development**, where I gained expertise in building complex, responsive **Single Page Applications (SPAs)**. Leveraging **JavaScript (ES6+)** and **TypeScript** for type safety and reliability, I engineer scalable solutions within the **React** and **Angular** ecosystems, possessing a deep understanding of component architecture, state management, and the DOM lifecycle.
+
+However, I do not limit myself to web technologies. My drive to understand low-level system operations led me to expand into system programming. I currently develop high-performance solutions using:
+* **C++ & C#:** For memory management, pointer arithmetic, and building robust backend services.
+* **SQL & Database Design:** For efficient data modeling and querying.
+* **DevOps Practices:** Utilizing **Docker** and **Linux** environments to ensure consistent deployment and system stability.
+
+My 8+ years of military service—ranging from Scout to Squad Leader—have instilled in me a unique set of soft skills critical for engineering: crisis management, effective team communication, and an execution-oriented mindset.
+
+Currently, I am focused on the intersection of **Software Engineering** and **Defense Technology**, applying my technical stack to solve real-world problems.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Core Languages:**
+**Core Languages & Systems:**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Web Development:**
+**Advanced Web Development:**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Databases & DevOps:**
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**DevOps & Environment:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Engineering Expertise:**
-* 🛡️ **Cyber Security:** OSINT, Information Security (NATO certified), Cyber Hygiene.
-* 🚁 **UAV Engineering:** Assembly, configuration, and piloting (Certified by Ministry of Defence).
-* 📊 **Management:** Project Management, Team Leadership, Crisis Management.
+---
+
+### 🛡️ Domain Expertise
+
+* **Cyber Security:** OSINT, Information Security (NATO certified), Cyber Hygiene.
+* **UAV Engineering:** Assembly, configuration, and piloting (Certified by Ministry of Defence).
+* **Management:** Project Management, Team Leadership, Crisis Management.
 
 ---
 
@@ -43,22 +54,22 @@ Currently, I am focused on developing robust software solutions and exploring th
 
 #### 💻 Software Engineering
 * **System Programming:** Development of performance-critical applications using **C++** and **C#**.
-* **Web Development:** Building responsive Single Page Applications (SPAs) with **React** and **Angular**.
-* **Databases:** Designing schemas and querying data using **SQL**.
-* **DevOps:** Containerizing applications with **Docker** for consistent deployment.
+* **Web Architecture:** Designing and implementing SPAs using **React** and **Angular** with strict typing (**TypeScript**).
+* **Data Management:** designing relational database schemas and optimizing **SQL** queries.
+* **DevOps:** Containerizing applications with **Docker** for CI/CD pipelines.
 
 #### 🎖 Leadership & Operations (Armed Forces of Ukraine)
 * **2015 – 2023:** **Squad Leader / Scout.**
-  * Managed personnel and operational planning in high-stakes environments.
-  * Developed strong analytical skills and risk management strategies.
-  * Gained extensive experience in tactical operations and technical equipment management.
+    * Managed personnel and operational planning in high-stakes environments.
+    * Developed strong analytical skills and risk management strategies.
+    * Gained extensive experience in tactical operations and technical equipment management.
 
 ---
 
 ### 🎓 Education & Certifications
 
 **Software Development:**
-* 🎓 **IT STEP Computer Academy:** Diploma in Software Development (Front End Specialization). *Graduated with Honors.*
+* 🎓 **IT STEP Computer Academy:** Diploma in Software Development. *Graduated with Honors.*
 * 📜 **CS50:** Computer Science for Business Professionals.
 * 📜 **Linux Foundation:** Linux Basics.
 

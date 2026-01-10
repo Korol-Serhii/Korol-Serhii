@@ -1,52 +1,61 @@
+<div align="center">
+
 # Hello, I'm Serhii Korol 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239B56&width=435&lines=Software+Engineer;C%2B%2B+%2F+C%23+Developer;Front-End+Developer;Defense+Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239B56&width=435&lines=Software+Engineer;C%2B%2B+%2F+C%23+Developer;Front-End+Developer;Defense+Tech+Enthusiast&center=true)](https://git.io/typing-svg)
+
+<a href="https://www.linkedin.com/in/ksv-software-engineer" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:king0sv0@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
 
 ### 🚀 About Me
 
 I am a disciplined and goal-oriented **Software Engineer** with a strong foundation in computer science and a unique background in military leadership. My professional philosophy is built on discipline, adaptability, and continuous technological evolution.
 
-My engineering journey began with a deep focus on interface design and client-side logic. I hold a professional diploma in **Software Development**, where I gained expertise in building complex, responsive **Single Page Applications (SPAs)**. Leveraging **JavaScript (ES6+)** and **TypeScript** for type safety and reliability, I engineer scalable solutions within the **React** and **Angular** ecosystems, possessing a deep understanding of component architecture, state management, and the DOM lifecycle.
+My engineering journey began with a deep focus on interface design and client-side logic. I hold a professional diploma in **Software Development**, where I gained expertise in building complex, responsive **Single Page Applications (SPAs)**. Leveraging **JavaScript (ES6+)** and **TypeScript** for type safety and reliability, I engineer scalable solutions within the **React** and **Angular** ecosystems.
 
 However, I do not limit myself to web technologies. My drive to understand low-level system operations led me to expand into system programming. I currently develop high-performance solutions using:
+
 * **C++ & C#:** For memory management, pointer arithmetic, and building robust backend services.
 * **SQL & Database Design:** For efficient data modeling and querying.
 * **DevOps Practices:** Utilizing **Docker** and **Linux** environments to ensure consistent deployment and system stability.
 
 My 8+ years of military service—ranging from Scout to Squad Leader—have instilled in me a unique set of soft skills critical for engineering: crisis management, effective team communication, and an execution-oriented mindset.
 
-Currently, I am focused on the intersection of **Software Engineering** and **Defense Technology**, applying my technical stack to solve real-world problems.
+Currently, I am focused on the intersection of **Software Engineering** and **Defense Technology**.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Skills & Technologies
 
-**Core Languages & Systems:**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+#### 💻 Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,ts,js,html,css" alt="Languages">
+</div>
 
-**Advanced Web Development:**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+#### 🚀 Frameworks & Libraries
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,dotnet" alt="Frameworks">
+</div>
 
-**DevOps & Environment:**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### 🔧 Tools, Database & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,visualstudio,vscode,postgres" alt="Tools">
+</div>
 
----
-
-### 🛡️ Domain Expertise
-
-* **Cyber Security:** OSINT, Information Security (NATO certified), Cyber Hygiene.
-* **UAV Engineering:** Assembly, configuration, and piloting (Certified by Ministry of Defence).
-* **Management:** Project Management, Team Leadership, Crisis Management.
+#### 🧠 Specialized Knowledge
+<div align="left">
+  <img src="https://img.shields.io/badge/-Cyber%20Security-20232a?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cyber Security">
+  <img src="https://img.shields.io/badge/-UAV%20Engineering-blue?style=for-the-badge&logo=dji&logoColor=white" alt="UAV">
+  <img src="https://img.shields.io/badge/-Crisis%20Management-D14836?style=for-the-badge&logo=target&logoColor=white" alt="Management">
+</div>
 
 ---
 
@@ -55,7 +64,7 @@ Currently, I am focused on the intersection of **Software Engineering** and **De
 #### 💻 Software Engineering
 * **System Programming:** Development of performance-critical applications using **C++** and **C#**.
 * **Web Architecture:** Designing and implementing SPAs using **React** and **Angular** with strict typing (**TypeScript**).
-* **Data Management:** designing relational database schemas and optimizing **SQL** queries.
+* **Data Management:** Designing relational database schemas and optimizing **SQL** queries.
 * **DevOps:** Containerizing applications with **Docker** for CI/CD pipelines.
 
 #### 🎖 Leadership & Operations (Armed Forces of Ukraine)
@@ -80,33 +89,13 @@ Currently, I am focused on the intersection of **Software Engineering** and **De
 
 ---
 
-### 📫 Connect with me
-I am open to job offers and collaboration on **Software Engineering**, **Defense Tech**, and **Open Source** projects.
+### 📊 GitHub Stats
 
-<a href="https://www.linkedin.com/in/ksv-software-engineer" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:king0sv0@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shortSparrow&show_icons=true&theme=transparent&title_color=36557F&icon_color=36557F&text_color=333&hide_border=true" alt="GitHub Stats" />
+</div>
 
----
-*Code with discipline. Engineer with purpose.*
 ---
 <div align="center">
 <i>"Code with discipline. Engineer with purpose."</i>
 </div>
-<!--
-**Korol-Serhii/Korol-Serhii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

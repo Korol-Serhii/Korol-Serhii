@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-I am a disciplined and goal-oriented **Software Engineer** with a strong foundation in computer science and a unique background in military leadership. My professional philosophy is built on discipline, adaptability, and continuous technological evolution.
+I am **Software Engineer** with a strong foundation in computer science and a unique background in military leadership. My professional philosophy is built on discipline, adaptability, and continuous technological evolution.
 
 My engineering journey began with a deep focus on interface design and client-side logic. I hold a professional diploma in **Software Development**, where I gained expertise in building complex, responsive **Single Page Applications (SPAs)**. Leveraging **JavaScript (ES6+)** and **TypeScript** for type safety and reliability, I engineer scalable solutions within the **React** and **Angular** ecosystems.
 
